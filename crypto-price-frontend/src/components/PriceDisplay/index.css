@@ -1,0 +1,17 @@
+.price-container1 {
+    display: flex;
+}
+
+.latest-price {
+    margin-right: 40px;
+}
+
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
